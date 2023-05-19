@@ -57,7 +57,7 @@ const WorkoutForm = () => {
             >
                 <input
                     className="form-input"
-                    placeholder="Time Slept"
+                    placeholder="Workout Name"
                     name="workoutName"
                     type="workoutName"
                     id="workoutName"
@@ -66,7 +66,7 @@ const WorkoutForm = () => {
                 />
                 <input
                     className="form-input"
-                    placeholder="Sleep Rating"
+                    placeholder="Describe your workout!"
                     name="description"
                     type="description"
                     id="description"
@@ -75,7 +75,7 @@ const WorkoutForm = () => {
                 />
                 <input
                     className="form-input"
-                    placeholder="Time Slept"
+                    placeholder="How many calories did you burn?"
                     name="caloriesBurned"
                     type="caloriesBurned"
                     id="caloriesBurned"
@@ -84,7 +84,7 @@ const WorkoutForm = () => {
                 />
                 <input
                     className="form-input"
-                    placeholder="Time Slept"
+                    placeholder="exercises"
                     name="exercises"
                     type="exercises"
                     id="exercises"

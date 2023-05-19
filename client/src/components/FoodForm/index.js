@@ -52,7 +52,7 @@ const FoodForm = () => {
             >
                 <input
                     className="form-input"
-                    placeholder="Time Slept"
+                    placeholder="Food Name"
                     name="foodName"
                     type="foodName"
                     id="foodName"
@@ -61,7 +61,7 @@ const FoodForm = () => {
                 />
                 <input
                     className="form-input"
-                    placeholder="Sleep Rating"
+                    placeholder="Calories Eaten"
                     name="caloriesEaten"
                     type="caloriesEaten"
                     id="caloriesEaten"

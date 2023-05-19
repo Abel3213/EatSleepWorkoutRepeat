@@ -1,5 +1,5 @@
 import React from 'react';
-import WorkoutList from '../WorkoutList';
+import WorkoutList from '../workoutList';
 import WorkoutForm from '../WorkoutForm';
 
 import Auth from '../../utils/auth';

@@ -19,7 +19,7 @@ const Header = () => {
         <header>
             <div className="jumbotron center">
                 <div className="container text-center">
-                    <img src={logo} alt="EatSleepWorkoutRepeatLogo" />
+                    <img className="logo" src={logo} alt="EatSleepWorkoutRepeatLogo" />
                 </div>
 
             </div>
